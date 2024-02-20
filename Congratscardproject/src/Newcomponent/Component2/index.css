@@ -1,20 +1,4 @@
 /* index.css */
-
-.component2-container {
-    background-image: url('https://assets.ccbp.in/frontend/react-js/congrats-card-bg.png');
-    background-size: cover;
-    background-repeat: no-repeat;
-    background-position: center;
-    padding: 20px;
-    text-align: center;
-    color: #cffafe; 
-    position: relative; 
-  }
-  
-  .component2-container2 {
-    background-color: #007bff;
-    padding: 20px; 
-}
   
   .logo {
     width: 100px;
@@ -29,10 +13,7 @@
     margin: 10px 0;
   }
   
-  .component2-container2 h2 {
-    font-family: 'Roboto';
-    font-size: 24px;
-    font-weight: bold;
-    margin: 10px 0;
+
+  .component2-container {
+    background-color: lightblue; 
   }
-  
